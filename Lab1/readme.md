@@ -1,16 +1,15 @@
-## Your Name / Date
+## Wendy Farrar/9/5/21
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+I am a social work professional with over 20 years of experience in the clinical social work field. I am utilizing this course to learn more about information technology.
 
-## Information System Components
+## Information System Components The five components of an information system are:  hardware, software, data, people, and processes. Hardware is the physical devices that you compute on. Software has two components operating system and application software; set of instructions that detail how to operate the hardware. Data is a collection of facts. People are intangible assets that utilize these components. Processes are is a series of steps undertaken to achieve the outcome. is process. 
 
-## GitHub
-### Client - Server Architecture
-### Cloud Computing
 
+## GitHub is an example of client server architecture because it allows instructors and other students to access the class network.
+### Client - Server Architecture is when businesses decided to connect their individual computers to a wider network or uses to create a better way to share and to collaborate resources with other businesses. 
+
+### Cloud Computing  is virtualization storage where you can upload and use the cloud from any location; on demand availability. 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+This class will assist me with learning more about the information technology field and help with increasingly changing EMR situations.
 
